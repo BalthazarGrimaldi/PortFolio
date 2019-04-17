@@ -1,0 +1,67 @@
+.image-entete {
+    opacity: 0.8;
+}
+.titre {
+    position: relative;
+    margin-top: -45%;
+}
+.description{
+    margin-top: 5%;
+}
+.fond-couleur{
+    padding: 0;
+}
+.nav-perso {
+    padding-top: 1.5%;
+    padding-bottom: 2.4%;
+    position: sticky;
+    top:0;
+    background-color: white;
+    z-index: 1;
+}
+.mes-boutons{
+    height: 125%;
+    width: 77%;
+}
+.taille-boutons{
+    font-size: 20px;
+}
+.ma_photo{
+    width: 95%;
+}
+.presentation{
+    margin-top: 25px;
+    margin-bottom: 90px;
+}
+.texte_pre{
+    font-size: 110%;
+}
+.titres {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h2{
+    text-align: center;
+}
+.cfa{
+    width: 95%;
+}
+.cfabis{
+    width: 95%;
+}
+.photos_cfa{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.description_ecole{
+    font-size: 110%;
+}
+.premiere_ligne{
+    text-align: left;
+    margin-bottom: 50px;
+}
+.autres_ligne{
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
